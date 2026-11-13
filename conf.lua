@@ -1,0 +1,5 @@
+function love.conf(t)
+    t.window.resizable = true
+    t.window.width = 300
+    t.window.height = 225
+end
